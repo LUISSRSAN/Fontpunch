@@ -1,0 +1,247 @@
+body{
+    background-color : #9FA2FF;
+   margin:0px;
+   
+
+}
+.typography{
+   background-color:white;
+   text-align:center;
+    padding:80px;
+    font-size:60px;
+    margin:0;
+}
+.typography:hover{
+    color:grey;
+    font-size:80px
+}
+header h1 {
+    color: #2d6de3;
+    text-align:center;
+}
+
+header *{
+    display:inline;
+}
+header nav {
+    display:inline;
+   border-radius:10px;
+   padding:20px;
+   list-style:none;
+
+   
+}
+header nav ul {
+    
+}
+header nav ul li {
+   
+    
+    
+}
+header nav li  a {
+color:black;
+padding:10px;
+text-decoration:none;
+text-align:right;
+
+}
+header nav li a:hover{
+    color:#2d6de3;
+    font-size:20px;
+}
+div {
+    text-align:center;
+}
+div h2 {
+    text-align:center; 
+}
+
+.bask{
+    min-width:100%;
+    height:400px;
+    background-color:white;
+    float:left;
+    text-align:center;
+    margin:auto;
+    
+}
+.bask p {
+    font-size:60px;
+}
+.tunnel{
+    width : 320px;
+    height:300px;
+    background-color:White;
+    padding-top :0;
+    margin-top:10px;
+    
+}
+.tunnel p {
+    font-size:60px;
+}
+.swiss{
+  background-color:white;
+  
+}
+.swiss p {
+    font-size:60px;
+}
+.european{
+    background-color:blanchedalmond;
+}
+.rules{
+    background-color:white;
+    margin:0;
+    padding:50px;
+}
+.rules ul li{
+    font-size:50px;
+    padding:30px;
+}
+.quote{
+    opacity:0.5;
+    height : 300px;
+    padding :0px;
+    margin:0;
+    background-color:white;
+}
+.quotetext{
+   
+  position:relative;
+
+    font-size:60px;
+}
+h2 {
+
+color:black;
+font-size : 60px;
+text-align:left;
+padding:20px;
+margin: 0px;
+}
+h2 .serif {
+    font-family :serif;
+}
+h2 .sansserif {
+    font-family :sans-serif;
+    
+    
+}
+
+.helvetica{
+    font-family: Helvetica,Sans-Serif;
+    font-size:60px;
+    color:white;
+    
+}
+.helvetica:hover{
+    color:grey;
+}
+
+.comic {
+    font-family: "Comic Sans MS","Comic Sans",cursive;
+    font-size:60px;
+    color:white;
+}
+.comic:hover{
+    color:grey;
+}
+
+.trebuch{
+    font-family : "Trebuchet MS" ,"Tahoma", sans-serif;
+    font-size:60px; 
+    color:white;
+}
+
+.trebuch:hover{
+    color:grey;
+}
+.impact{
+    font-family : impact;
+    font-size:60px;
+    color:white;
+}
+.impact:hover{
+    color:grey;
+}
+
+.gillsan {
+    font-family : Gill Sans , sans-serif;
+    font-size:60px;
+    color :white;
+}
+
+.gillsan:hover {
+color:grey;
+}
+
+.bestknown {
+    height :280px;
+    background-color : #ffea5e;
+    width:400px;
+    padding:50px;
+    margin:20px;
+    background-color: #84cfcb;
+ text-align: center;
+ float:left;
+   
+}
+
+
+.best {
+    color: #2d6de3;
+    text-align:center;
+}
+
+.futura {
+    font-family :Futura;
+    font-size:60px;
+}
+
+p{
+    font-size : 30px;
+    margin: 0 ;
+}
+
+.oldestsan{
+    width:300px;
+    height:150px;
+    padding:120px;
+    margin:10px;
+  text-align:center;
+    background-color:  #84cfcb;
+    float:left;
+}
+
+
+.oldest{
+    padding:0px;
+    text-align:center;
+    color:#2d6de3;
+}
+.caslon{
+    font-family :caslon;
+}
+
+.oldfaithful{
+    color:#2d6de3;
+    text-align:center;
+    background-color: #84cfcb;
+    padding : 300px;
+    height:200px;
+}
+
+
+ol li h2{
+    text-align:center;
+}
+
+footer{
+    position:absolute;
+}
+footer *{
+   
+    display:inline;
+    padding : 20px;
+}
